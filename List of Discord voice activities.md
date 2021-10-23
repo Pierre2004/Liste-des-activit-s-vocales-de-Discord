@@ -16,6 +16,8 @@ Let me know if there are more activities or if anything in this gist needs to be
 | 879863686565621790 | Letter Tile |
 | 879863976006127627 | Word Snacks |
 | 852509694341283871 | SpellCast |
+| 832013003968348200 | CG3 Prod |
+| 832025144389533716 | CG4 Prod |
 
 ### Development versions
 | Application ID | Application name |
@@ -28,15 +30,35 @@ Let me know if there are more activities or if anything in this gist needs to be
 | 879864010126786570 | Word Snacks Dev |
 | 879864104980979792 | Sketchy Artist Dev |
 | 891001866073296967 | Decoders Dev |
-
+| 832013108234289153 | CG4 Dev |
 ### Staging versions
 | Application ID | Application name |
 | --- | --- |
 | 763116274876022855 | PN Staging |
 | 832012730599735326 | CG2 Staging |
+| 832012938398400562 | CG3 Staging |
+| 832025061657280566 | CG4 Staging |
 
 ### QA versions
 | Application ID | Application name |
 | --- | --- |
 | 801133024841957428 | Poker QA |
 | 832012815819604009 | CG2 QA |
+| 832012894068801636 | CG 3 QA |
+| 832025114077298718 | CG4 QA |
+
+### Unknown applications (May not work)
+| Application ID | Application name |
+| --- | --- |
+| 832025993019260929 | CGSample |
+| 832025179659960360 | Discord Game 14 |
+| 832025219526033439 | Discord Game 15 |
+| 832025249335738428 | Discord Game 16 |
+| 832025333930524692 | Discord Game 17 |
+| 832025385159622656 | Discord Game 18 |
+| 832025431280320532 | Discord Game 19 |
+| 832025470685937707 | Discord Game 20 |
+| 832025799590281238 | Discord Game 21 |
+| 832025857525678142 | Discord Game 22 |
+| 832025886030168105 | Discord Game 23 |
+| 832025928938946590 | Discord Game 24 |
