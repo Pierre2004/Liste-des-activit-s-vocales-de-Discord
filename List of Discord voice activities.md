@@ -22,14 +22,14 @@ Let me know if there are more activities or if anything in this gist needs to be
 ### Development versions
 | Application ID | Application name |
 | --- | --- |
-| 832012682520428625 | CG 3 Dev(Also known as checkers in the park) |
-| 832012586023256104 | CG 2 Dev |
 | 763133495793942528 | PN Dev |
 | 880218832743055411 | Watch Together Dev |
 | 878067427668275241 | Doodle Crew Dev |
 | 879864010126786570 | Word Snacks Dev |
 | 879864104980979792 | Sketchy Artist Dev |
 | 891001866073296967 | Decoders Dev |
+| 832012586023256104 | CG 2 Dev |
+| 832012682520428625 | CG 3 Dev(Also known as checkers in the park) |
 | 832013108234289153 | CG4 Dev |
 ### Staging versions
 | Application ID | Application name |
