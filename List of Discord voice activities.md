@@ -16,7 +16,7 @@ Let me know if there are more activities or if anything in this gist needs to be
 | 879863686565621790 | Letter Tile |
 | 879863976006127627 | Word Snacks |
 | 852509694341283871 | SpellCast |
-| 832013003968348200 | Checkers In The Park(Formerly known as CG3 Prod.) |
+| 832013003968348200 | Checkers In The Park(Formerly known as 'CG3 Prod'.) |
 | 832025144389533716 | CG4 Prod |
 
 ### Development versions
