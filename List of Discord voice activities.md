@@ -11,13 +11,13 @@ Let me know if there are more activities or if anything in this gist needs to be
 | 832012774040141894 | Chess In The Park |
 | 879864070101172255 | Sketchy Artist |
 | 879863881349087252 | Awkword |
-| 832012854282158180 | Putts(Formerly known as 'putt dis' and 'click dis'.) |
+| 832012854282158180 | Delete Me Calla(Formerly known as 'putt dis' 'click dis' and 'Putts'.) Doesn't work anymore |
 | 878067389634314250 | Doodle Crew |
 | 879863686565621790 | Letter Tile |
 | 879863976006127627 | Word Snacks |
 | 852509694341283871 | SpellCast |
 | 832013003968348200 | Checkers In The Park(Formerly known as 'CG3 Prod'.) |
-| 832025144389533716 | CG4 Prod |
+| 832025144389533716 | CG4 Prod (Doesn't work anymore) |
 
 ### Development versions
 | Application ID | Application name |
@@ -51,14 +51,14 @@ Let me know if there are more activities or if anything in this gist needs to be
 | Application ID | Application name |
 | --- | --- |
 | 832025993019260929 | CGSample |
-| 832025179659960360 | Discord Game 14 |
-| 832025219526033439 | Discord Game 15 |
-| 832025249335738428 | Discord Game 16 |
-| 832025333930524692 | Discord Game 17 |
-| 832025385159622656 | Discord Game 18 |
-| 832025431280320532 | Discord Game 19 |
-| 832025470685937707 | Discord Game 20 |
-| 832025799590281238 | Discord Game 21 |
+| 832025179659960360 | Discord Game 14(Application deleted) |
+| 832025219526033439 | Discord Game 15(Application deleted) |
+| 832025249335738428 | Discord Game 16(Application deleted) |
+| 832025333930524692 | Discord Game 17(Application deleted) |
+| 832025385159622656 | Discord Game 18(Application deleted)  |
+| 832025431280320532 | Discord Game 19(Application deleted) |
+| 832025470685937707 | Discord Game 20(Application deleted) |
+| 832025799590281238 | Discord Game 21(Application deleted)  |
 | 832025857525678142 | Discord Game 22 |
 | 832025886030168105 | Discord Game 23 |
 | 832025928938946590 | Discord Game 24 |
