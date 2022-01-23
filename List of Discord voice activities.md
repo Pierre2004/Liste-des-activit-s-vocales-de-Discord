@@ -11,11 +11,11 @@
 | 879863881349087252 | Awkword | 0 | 12 |
 | 832012854282158180 | Delete Me Calla(Formerly known as 'putt dis', 'click dis' and 'Putts'.)Application deleted | 0 | 12 |
 | 878067389634314250 | Doodle Crew | 1 | 16 |
-| 879863686565621790 | Letter Tile | 1 | 8 |
+| 879863686565621790 | Letter League(Formerly known as 'Letter Tile') | 1 | 8 |
 | 879863976006127627 | Word Snacks | 0 | 8 |
 | 852509694341283871 | SpellCast | 1 | 100 |
 | 832013003968348200 | Checkers In The Park(Formerly known as 'CG3 Prod'.) | 1 | Unlimited |
-| 832025144389533716 | CG4 Prod (Doesn't work anymore) | 0 | 8 |
+| 832025144389533716 | Ocho (Formerly known as 'CG4 Prod') | 0 | 8 |
 
 ### Development versions
 | Application ID | Application name | Boost level | Max participants |
