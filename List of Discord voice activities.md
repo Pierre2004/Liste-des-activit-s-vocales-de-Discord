@@ -10,7 +10,6 @@
 | 879864070101172255 | Sketchy Artist | 0 | 12 |
 | 879863881349087252 | Awkword | 0 | 12 |
 | 832012854282158180 | Delete Me Calla(Formerly known as 'putt dis', 'click dis' and 'Putts'.)Application deleted | 0 | 12 |
-| 910224161476083792 | Putt Party | 0 | 8 |
 | 878067389634314250 | Doodle Crew | 0 | 16 |
 | 902271654783242291 | Sketch Heads | 0 | 16 |
 | 879863686565621790 | Letter League(Formerly known as 'Letter Tile') | 1 | 8 |
@@ -18,6 +17,7 @@
 | 852509694341283871 | SpellCast | 1 | 100 |
 | 832013003968348200 | Checkers In The Park(Formerly known as 'CG3 Prod'.) | 1 | Unlimited |
 | 832025144389533716 | Ocho (Formerly known as 'CG4 Prod') | 1 | 8 |
+| 945737671223947305 | Putt Party | 0 | Unlimited |
 
 ### Development versions
 | Application ID | Application name | Boost level | Max participants |
@@ -31,6 +31,7 @@
 | 832012586023256104 | CG 2 Dev | 0 | Unlimited |
 | 832012682520428625 | CG 3 Dev(Also known as checkers in the park) | 0 | Unlimited |
 | 832013108234289153 | CG4 Dev | 0 | 8 |
+| 910224161476083792 | Putt Party Dev | 0 | Unlimited |
 ### Staging versions
 | Application ID | Application name | Boost level | Max participants |
 | --- | --- | --- | --- |
@@ -38,6 +39,7 @@
 | 832012730599735326 | CG2 Staging | 0 | Unlimited |
 | 832012938398400562 | CG3 Staging | 0 | Unlimited |
 | 832025061657280566 | CG4 Staging | 0 | 8 |
+| 945732077960188005 | Putt Party Stg | 0 | Unlimited |
 
 ### QA versions
 | Application ID | Application name | Boost level | Max participants |
@@ -46,6 +48,7 @@
 | 832012815819604009 | CG2 QA | 0 | Unlimited |
 | 832012894068801636 | CG 3 QA | 0 | Unlimited |
 | 832025114077298718 | CG4 QA | 0 | 8 |
+| 945748195256979606 | Putt Party QA | 0 | Unlimited |
 
 ### Unknown applications
 | Application ID | Application name | Boost level | Max participants |
