@@ -16,7 +16,7 @@
 | 879863976006127627 | Word Snacks | 0 | 8 |
 | 852509694341283871 | SpellCast | 1 | 100 |
 | 832013003968348200 | Checkers In The Park(Formerly known as 'CG3 Prod'.) | 1 | Unlimited |
-| 832025144389533716 | Ocho (Formerly known as 'CG4 Prod') | 1 | 8 |
+| 832025144389533716 | Blazing 8s (Formerly known as 'CG4 Prod' and 'Ocho' ) | 1 | 8 |
 | 945737671223947305 | Putt Party | 0 | Unlimited |
 
 ### Development versions
