@@ -18,6 +18,7 @@
 | 832013003968348200 | Checkers In The Park(Formerly known as 'CG3 Prod'.) | 1 | Unlimited |
 | 832025144389533716 | Blazing 8s (Formerly known as 'CG4 Prod' and 'Ocho' ) | 1 | 8 |
 | 945737671223947305 | Putt Party | 0 | Unlimited |
+| 903769130790969345 | Land-io | 1 | 16 |
 
 ### Development versions
 | Application ID | Application name | Boost level | Max participants |
@@ -26,12 +27,16 @@
 | 880218832743055411 | Watch Together Dev | 0 | Unlimited |
 | 878067427668275241 | Doodle Crew Dev | 0 | 16 |
 | 879864010126786570 | Word Snacks Dev | 0 | 32 |
+| 902271746701414431 | Sketch Heads Dev | 0 | 16 |
 | 879864104980979792 | Sketchy Artist Dev | 0 | 12 |
+| 879863753519292467 | Letter League Dev | 0 | 8 |
 | 891001866073296967 | Decoders Dev | 0 | 32 |
 | 832012586023256104 | CG 2 Dev | 0 | Unlimited |
 | 832012682520428625 | CG 3 Dev(Also known as checkers in the park) | 0 | Unlimited |
 | 832013108234289153 | CG4 Dev | 0 | 8 |
 | 910224161476083792 | Putt Party Dev | 0 | Unlimited |
+| 879863923543785532 | Awkword Dev | 0 | 32 |
+
 ### Staging versions
 | Application ID | Application name | Boost level | Max participants |
 | --- | --- | --- | --- |
@@ -40,6 +45,7 @@
 | 832012938398400562 | CG3 Staging | 0 | Unlimited |
 | 832025061657280566 | CG4 Staging | 0 | 8 |
 | 945732077960188005 | Putt Party Stg | 0 | Unlimited |
+| 893449443918086174 | SpellCast Staging | 0 | Unlimited |
 
 ### QA versions
 | Application ID | Application name | Boost level | Max participants |
@@ -53,6 +59,7 @@
 ### Unknown applications
 | Application ID | Application name | Boost level | Max participants |
 | --- | --- | --- | --- |
+| 880559245471408169 | iframe-playground | 0 | 100
 | 832025993019260929 | CGSample | 0 | 100 |
 | 832025179659960360 | Discord Game 14(Application deleted) |
 | 832025219526033439 | Discord Game 15(Application deleted) |
