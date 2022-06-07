@@ -19,6 +19,7 @@
 | 832025144389533716 | Blazing 8s (Formerly known as 'CG4 Prod' and 'Ocho' ) | 1 | 8 |
 | 945737671223947305 | Putt Party | 0 | Unlimited |
 | 903769130790969345 | Land-io | 1 | 16 |
+| 947957217959759964 | Bobble League | 0 | 8 |
 
 ### Development versions
 | Application ID | Application name | Boost level | Max participants |
