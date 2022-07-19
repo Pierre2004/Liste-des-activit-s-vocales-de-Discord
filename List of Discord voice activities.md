@@ -21,6 +21,7 @@
 | 903769130790969345 | Land-io | 1 | 16 |
 | 947957217959759964 | Bobble League | 0 | 8 |
 | 976052223358406656 | Ask Away | 0 | 10 |
+| 950505761862189096 | Know What I Meme | 1 | 8 |
 
 ### Development versions
 | Application ID | Application name | Boost level | Max participants |
