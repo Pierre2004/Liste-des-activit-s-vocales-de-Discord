@@ -62,6 +62,7 @@
 ### Unknown applications
 | Application ID | Application name | Boost level | Max participants |
 | --- | --- | --- | --- |
+| 1006986333539029022 | Clone - Watch Together | 0 | Unlimited |
 | 880559245471408169 | iframe-playground | 0 | 100
 | 832025993019260929 | CGSample | 0 | 100 |
 | 832025179659960360 | Discord Game 14(Application deleted) |
