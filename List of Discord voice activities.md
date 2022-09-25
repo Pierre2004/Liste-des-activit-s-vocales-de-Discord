@@ -7,10 +7,10 @@
 | 773336526917861400 | Betrayal.io | 0 | Unlimited |
 | 814288819477020702 | Fishington.io | 0 | Unlimited |
 | 832012774040141894 | Chess In The Park | 1 | Unlimited |
-| 879864070101172255 | Sketchy Artist | 0 | 12 |
-| 879863881349087252 | Awkword | 0 | 12 |
+| 879864070101172255 | Sketchy Artist(Deleted) | 0 | 12 |
+| 879863881349087252 | Awkword(Deleted) | 0 | 12 |
 | 832012854282158180 | Delete Me Calla(Formerly known as 'putt dis', 'click dis' and 'Putts'.)Application deleted | 0 | 12 |
-| 878067389634314250 | Doodle Crew | 0 | 16 |
+| 878067389634314250 | Doodle Crew(Deleted) | 0 | 16 |
 | 902271654783242291 | Sketch Heads | 0 | 16 |
 | 879863686565621790 | Letter League(Formerly known as 'Letter Tile') | 1 | 8 |
 | 879863976006127627 | Word Snacks | 0 | 8 |
@@ -22,23 +22,24 @@
 | 947957217959759964 | Bobble League | 1 | 8 |
 | 976052223358406656 | Ask Away | 1 | 10 |
 | 950505761862189096 | Know What I Meme | 1 | 8 |
+| 1006584476094177371 | Bash Out | 1 | 16 |
 
 ### Development versions
 | Application ID | Application name | Boost level | Max participants |
 | --- | --- | --- | --- |
 | 763133495793942528 | PN Dev | 0 | 25 |
 | 880218832743055411 | Watch Together Dev | 0 | Unlimited |
-| 878067427668275241 | Doodle Crew Dev | 0 | 16 |
+| 878067427668275241 | Doodle Crew Dev(Deleted) | 0 | 16 |
 | 879864010126786570 | Word Snacks Dev | 0 | 32 |
 | 902271746701414431 | Sketch Heads Dev | 0 | 16 |
-| 879864104980979792 | Sketchy Artist Dev | 0 | 12 |
+| 879864104980979792 | Sketchy Artist Dev(Deleted) | 0 | 12 |
 | 879863753519292467 | Letter League Dev | 0 | 8 |
-| 891001866073296967 | Decoders Dev | 0 | 32 |
+| 891001866073296967 | Decoders Dev(Deleted) | 0 | 32 |
 | 832012586023256104 | CG 2 Dev | 0 | Unlimited |
 | 832012682520428625 | CG 3 Dev(Also known as checkers in the park) | 0 | Unlimited |
 | 832013108234289153 | CG4 Dev | 0 | 8 |
 | 910224161476083792 | Putt Party Dev | 0 | Unlimited |
-| 879863923543785532 | Awkword Dev | 0 | 32 |
+| 879863923543785532 | Awkword Dev(Deleted) | 0 | 32 |
 
 ### Staging versions
 | Application ID | Application name | Boost level | Max participants |
