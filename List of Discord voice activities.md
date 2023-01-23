@@ -1,3 +1,4 @@
+## Activities no longer require boosts to unlock. Activities except Know What I Meme and Watch Together are locked behind Nitro. Kept boost levels for prosperity.
 ### Stable versions
 | Application ID | Application name | Boost level | Max participants |
 | --- | --- | --- | --- |
@@ -21,7 +22,7 @@
 | 903769130790969345 | Land-io | 1 | 16 |
 | 947957217959759964 | Bobble League | 1 | 8 |
 | 976052223358406656 | Ask Away | 1 | 10 |
-| 950505761862189096 | Know What I Meme | 1 | 8 |
+| 950505761862189096 | Know What I Meme | 1 | 9 |
 | 1006584476094177371 | Bash Out | 1 | 16 |
 
 ### Development versions
@@ -66,6 +67,7 @@
 | 1006986333539029022 | Clone - Watch Together | 0 | Unlimited |
 | 880559245471408169 | iframe-playground | 0 | 100
 | 832025993019260929 | CGSample | 0 | 100 |
+| 881732122631634984 | test-game-001 |  | Unlimited
 | 832025179659960360 | Discord Game 14(Application deleted) |
 | 832025219526033439 | Discord Game 15(Application deleted) |
 | 832025249335738428 | Discord Game 16(Application deleted) |
