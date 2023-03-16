@@ -1,4 +1,4 @@
-## Activities no longer require boosts to unlock. Activities except Know What I Meme and Watch Together are locked behind Nitro. Kept boost levels for prosperity.
+## Activities no longer require boosts to unlock. Activities except Watch Together are locked behind Nitro. Kept boost levels for prosperity.
 ### Stable versions
 | Application ID | Application name | Boost level | Max participants |
 | --- | --- | --- | --- |
@@ -24,6 +24,9 @@
 | 976052223358406656 | Ask Away | 1 | 10 |
 | 950505761862189096 | Know What I Meme | 1 | 9 |
 | 1006584476094177371 | Bash Out | 1 | 16 |
+| 1007373802981822582 | Gartic Phone |  | 16 |
+| 1039835161136746497 | Color Together |  | 100 |
+| 1037680572660727838 | Chef Showdown	 |  | 15 |
 
 ### Development versions
 | Application ID | Application name | Boost level | Max participants |
