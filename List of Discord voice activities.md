@@ -28,7 +28,6 @@
 | 1039835161136746497 | Color Together |  | 100 |
 | 1037680572660727838 | Chef Showdown	 |  | 15 |
 | 1000100849122553977 | Bobble Land: Scrappies |  | 4 |
-| 1049916362383962192 | Colonist.io |  | Unlimited |
 | 1070087967294631976 | Jamspace  |  | Unlimited |
 | 1001529884625088563 | Guestbook |  | Unlimited |
 | 1011683823555199066 | Project K(Known as Krunker)
@@ -61,6 +60,7 @@
 | 832025061657280566 | CG4 Staging | 0 | 8 |
 | 945732077960188005 | Putt Party Stg | 0 | Unlimited |
 | 893449443918086174 | SpellCast Staging | 0 | Unlimited |
+| 1049916362383962192 | [Deprecated] Colonist.io Staging |  | Unlimited |
 
 ### QA versions
 | Application ID | Application name | Boost level | Max participants |
