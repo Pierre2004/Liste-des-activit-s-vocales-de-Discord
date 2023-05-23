@@ -27,6 +27,11 @@
 | 1007373802981822582 | Gartic Phone |  | 16 |
 | 1039835161136746497 | Color Together |  | 100 |
 | 1037680572660727838 | Chef Showdown	 |  | 15 |
+| 1000100849122553977 | Bobble Land: Scrappies |  | 4 |
+| 1049916362383962192 | Colonist.io |  | Unlimited |
+| 1070087967294631976 | Jamspace  |  | Unlimited |
+| 1001529884625088563 | Guestbook |  | Unlimited |
+| 1011683823555199066 | Project K(Known as Krunker)
 
 ### Development versions
 | Application ID | Application name | Boost level | Max participants |
@@ -44,6 +49,8 @@
 | 832013108234289153 | CG4 Dev | 0 | 8 |
 | 910224161476083792 | Putt Party Dev | 0 | Unlimited |
 | 879863923543785532 | Awkword Dev(Deleted) | 0 | 32 |
+| 1070097992746541207 | Jamspace Dev |  | Unlimited |
+| 950507686422794280 | Know What I Meme Dev |  | 9 |
 
 ### Staging versions
 | Application ID | Application name | Boost level | Max participants |
@@ -63,6 +70,7 @@
 | 832012894068801636 | CG 3 QA | 0 | Unlimited |
 | 832025114077298718 | CG4 QA | 0 | 8 |
 | 945748195256979606 | Putt Party QA | 0 | Unlimited |
+| 1050941315912835122 | Watch Together QA |  | Unlimited |
 
 ### Unknown applications
 | Application ID | Application name | Boost level | Max participants |
