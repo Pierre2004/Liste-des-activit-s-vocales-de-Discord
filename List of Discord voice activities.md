@@ -44,7 +44,8 @@
 | 1214629548377768066 | Amazon Music
 | 1196535986226745437 | TuneIn Radio & Podcasts
 | 235088799074484224  | Rythm(Scam)
-| 1187013846746005515 | Farm Merge Valley(This game sucks except if you like wasting your time)
+| 1187013846746005515 | Farm Merge Valley
+(This game sucks except if you like wasting your time)
 
 ### Development versions
 | Application ID | Application name | Boost level | Max participants |
