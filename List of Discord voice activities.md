@@ -22,7 +22,6 @@
 | 903769130790969345  | Land-io | 1 | 16 |
 | 947957217959759964  | Bobble League | 1 | 8 |
 | 976052223358406656  | Ask Away | 1 | 10 |
-| 950505761862189096  | Know What I Meme | 1 | 9 |
 | 1006584476094177371 | Bash Out | 1 | 16 |
 | 1007373802981822582 | Gartic Phone |  | 16 |
 | 1039835161136746497 | Color Together |  | 100 |
@@ -44,8 +43,7 @@
 | 1214629548377768066 | Amazon Music
 | 1196535986226745437 | TuneIn Radio & Podcasts
 | 235088799074484224  | Rythm(Scam)
-| 1187013846746005515 | Farm Merge Valley
-(This game sucks except if you like wasting your time)
+| 1187013846746005515 | Farm Merge Valley (This game sucks except if you like wasting your time)
 
 ### Development versions
 | Application ID | Application name | Boost level | Max participants |
